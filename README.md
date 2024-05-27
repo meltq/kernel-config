@@ -1,1 +1,1 @@
-A repo to keep track of my kernel configs
+# A repo to keep track of my kernel configs
